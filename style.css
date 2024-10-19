@@ -55,26 +55,4 @@ cursor: pointer;
     letter-spacing: 2px;
 }
 
-.social-buttons {
-            display: flex;
-            gap: 15px;
-}
-.social-buttons a {
-    display: block;
-    width: 50px;
-    height: 50px;
-    background-color: #fff;
-    border: 2px solid #ccc;
-    border-radius: 10%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: transform 0.3s;
-}
-.social-buttons a:hover {
-    transform: scale(1.1);
-}
-.social-buttons img {
-     width: 30px;
-     height: 30px;
-}
+
